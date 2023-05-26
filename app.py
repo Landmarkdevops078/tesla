@@ -1,0 +1,5 @@
+print("simon")
+print("Ivo")
+print("Chidi")
+print("Grace")
+print("Grace")
